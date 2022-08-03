@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/my-portfolio/static/css/main.1c9b4719.css",
-    "main.js": "/my-portfolio/static/js/main.25f5b4fe.js",
+    "main.css": "/my-portfolio/static/css/main.cc3cb0cd.css",
+    "main.js": "/my-portfolio/static/js/main.ff0f7c6b.js",
     "static/media/me-2.png": "/my-portfolio/static/media/me-2.c33487de79c2bee1c3e7.png",
     "static/media/CV-Renaldi-Noviandi.pdf": "/my-portfolio/static/media/CV-Renaldi-Noviandi.9b7612abad03ed614eb2.pdf",
     "static/media/portfolio2.jpg": "/my-portfolio/static/media/portfolio2.695f2512c69a50a3fc38.jpg",
@@ -16,11 +16,11 @@
     "static/media/avatar4.jpg": "/my-portfolio/static/media/avatar4.8841582d79538491ba2d.jpg",
     "static/media/avatar3.jpg": "/my-portfolio/static/media/avatar3.c514bfe32a6d75bdb169.jpg",
     "index.html": "/my-portfolio/index.html",
-    "main.1c9b4719.css.map": "/my-portfolio/static/css/main.1c9b4719.css.map",
-    "main.25f5b4fe.js.map": "/my-portfolio/static/js/main.25f5b4fe.js.map"
+    "main.cc3cb0cd.css.map": "/my-portfolio/static/css/main.cc3cb0cd.css.map",
+    "main.ff0f7c6b.js.map": "/my-portfolio/static/js/main.ff0f7c6b.js.map"
   },
   "entrypoints": [
-    "static/css/main.1c9b4719.css",
-    "static/js/main.25f5b4fe.js"
+    "static/css/main.cc3cb0cd.css",
+    "static/js/main.ff0f7c6b.js"
   ]
 }
