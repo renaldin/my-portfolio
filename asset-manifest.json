@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/my-portfolio/static/css/main.2e8064d4.css",
-    "main.js": "/my-portfolio/static/js/main.0b2f7d1c.js",
-    "static/media/me-2.png": "/my-portfolio/static/media/me-2.c33487de79c2bee1c3e7.png",
-    "static/media/portfolio2.jpg": "/my-portfolio/static/media/portfolio2.695f2512c69a50a3fc38.jpg",
-    "static/media/CV-Renaldi-Noviandi.pdf": "/my-portfolio/static/media/CV-Renaldi-Noviandi.167feb79bcce88dffa7f.pdf",
-    "static/media/me-about.jpg": "/my-portfolio/static/media/me-about.24d5fb3175983d2f33fa.jpg",
-    "static/media/portfolio1.jpg": "/my-portfolio/static/media/portfolio1.a9ea5879fa78ddcfdb7e.jpg",
-    "static/media/portfolio4.jpg": "/my-portfolio/static/media/portfolio4.f3d0189e6f6449ed3c37.jpg",
-    "static/media/portfolio3.jpg": "/my-portfolio/static/media/portfolio3.0fb3e2c64454f17e2ceb.jpg",
-    "static/media/portfolio5.jpg": "/my-portfolio/static/media/portfolio5.d223e46766c522e867d3.jpg",
-    "static/media/portfolio6.jpg": "/my-portfolio/static/media/portfolio6.4a270e4b7f0ab740cfb3.jpg",
-    "static/media/avatar2.jpg": "/my-portfolio/static/media/avatar2.394fb197bbc22d70ed83.jpg",
-    "static/media/avatar1.jpg": "/my-portfolio/static/media/avatar1.2e12815444e34ce6c3ef.jpg",
-    "static/media/avatar4.jpg": "/my-portfolio/static/media/avatar4.8841582d79538491ba2d.jpg",
-    "static/media/avatar3.jpg": "/my-portfolio/static/media/avatar3.c514bfe32a6d75bdb169.jpg",
-    "index.html": "/my-portfolio/index.html",
-    "main.2e8064d4.css.map": "/my-portfolio/static/css/main.2e8064d4.css.map",
-    "main.0b2f7d1c.js.map": "/my-portfolio/static/js/main.0b2f7d1c.js.map"
+    "main.css": "/jokianbeta/static/css/main.a331a252.css",
+    "main.js": "/jokianbeta/static/js/main.ac9d1208.js",
+    "static/media/portfolio2.jpg": "/jokianbeta/static/media/portfolio2.695f2512c69a50a3fc38.jpg",
+    "static/media/CV-Renaldi-Noviandi.pdf": "/jokianbeta/static/media/CV-Renaldi-Noviandi.167feb79bcce88dffa7f.pdf",
+    "static/media/portfolio1.jpg": "/jokianbeta/static/media/portfolio1.a9ea5879fa78ddcfdb7e.jpg",
+    "static/media/portfolio4.jpg": "/jokianbeta/static/media/portfolio4.f3d0189e6f6449ed3c37.jpg",
+    "static/media/portfolio3.jpg": "/jokianbeta/static/media/portfolio3.0fb3e2c64454f17e2ceb.jpg",
+    "static/media/portfolio5.jpg": "/jokianbeta/static/media/portfolio5.d223e46766c522e867d3.jpg",
+    "static/media/portfolio6.jpg": "/jokianbeta/static/media/portfolio6.4a270e4b7f0ab740cfb3.jpg",
+    "static/media/avatar2.jpg": "/jokianbeta/static/media/avatar2.394fb197bbc22d70ed83.jpg",
+    "static/media/avatar1.jpg": "/jokianbeta/static/media/avatar1.2e12815444e34ce6c3ef.jpg",
+    "static/media/avatar4.jpg": "/jokianbeta/static/media/avatar4.8841582d79538491ba2d.jpg",
+    "static/media/avatar3.jpg": "/jokianbeta/static/media/avatar3.c514bfe32a6d75bdb169.jpg",
+    "static/media/logo-real-kotak-biru.png": "/jokianbeta/static/media/logo-real-kotak-biru.8b97787c00b23e22a48e.png",
+    "static/media/logo-real.png": "/jokianbeta/static/media/logo-real.c29bfbfa6185e91778c9.png",
+    "index.html": "/jokianbeta/index.html",
+    "main.a331a252.css.map": "/jokianbeta/static/css/main.a331a252.css.map",
+    "main.ac9d1208.js.map": "/jokianbeta/static/js/main.ac9d1208.js.map"
   },
   "entrypoints": [
-    "static/css/main.2e8064d4.css",
-    "static/js/main.0b2f7d1c.js"
+    "static/css/main.a331a252.css",
+    "static/js/main.ac9d1208.js"
   ]
 }
